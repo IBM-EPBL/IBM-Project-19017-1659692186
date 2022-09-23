@@ -1,1 +1,1 @@
-# Project Name : A Novel Method for Handwritten Digit Recognition Systems
+# Project Name : A Novel Method for Handwritten Digit Recognition Systems.
